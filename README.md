@@ -21,6 +21,6 @@ Login using barium/barium
 The client side can be configured via 
 - public/keycloak.json
 
-Furthermore, SAML metadata files are exported from Keycloak
+Furthermore, these SAML metadata files exported from Keycloak IDP:
 - ./idp-metadata.xml
 - ./sp-metadata.xml 
