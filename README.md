@@ -23,6 +23,4 @@ The client side can be configured via
 
 Furthermore, SAML metadata files are exported from Keycloak
 - ./idp-metadata.xml
-- ./sp-metadata.xml can 
-
-
+- ./sp-metadata.xml 
