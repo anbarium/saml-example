@@ -12,6 +12,7 @@ Login using admin/admin
 This frontend/saml-enabled-client is an example client (basically a copy from [User Authentication with Keycloak](https://blog.scalac.io/user-authentication-with-keycloak-part1.html)).
 
 > yarn install
+
 > yarn start 
 
 Access the [secure page](http://localhost:3000/secured) (will redirect to IDP for SAML authentication).
