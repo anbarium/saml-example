@@ -1,0 +1,8 @@
+{
+  "realm": "barium",
+  "auth-server-url": "http://localhost:9191/auth",
+  "ssl-required": "external",
+  "resource": "bali",
+  "public-client": true,
+  "confidential-port": 0
+}
